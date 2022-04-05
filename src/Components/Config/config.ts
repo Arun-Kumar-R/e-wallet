@@ -1,0 +1,5 @@
+export const AUTH_USER = "AUTH_USER";
+
+export const BALANCE_AMOUNT = "BALANCE_AMOUNT";
+
+export const TRANSACTION_HISTORY = "TRANSACTION_HISTORY";
